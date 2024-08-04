@@ -1,0 +1,12 @@
+{
+  "name": "scopeclosure",
+  "version": "1.0.0",
+  "description": "Scope and Closure Implementation Practice in JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
